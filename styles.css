@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.test{
+	width:auto;
+	height:auto;
+	border:1px solid black;
+}
+#button-1{
+	background-color:rgb(78,37,255);
+	color:white;
+}
+#button-2{
+	background-color:white;
+	border:1px solid black;
+}
+#button-4{
+	background-color:rgb(232,0,62);
+	color:white;
+}
+#button-5{
+	background-color:rgb(255,203,0);
+}
+#button-6{
+	background-color:#49ddf8;
+}
+#button-7{
+	font-weight:bold;
+}
